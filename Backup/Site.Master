@@ -1,0 +1,52 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="WebSGQ.SiteMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1" runat="server">
+    <title>Casablanca Turismo</title>
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+        <style type="text/css">
+        header   
+        {
+            width: 100%;
+            height: 93px;
+            color: #333;
+            float: left;
+            background-image: url("../Imagens/background_header.png");
+            background-repeat: repeat-x;
+        }
+        </style>
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="Form1" runat="server">
+    <div class="page">
+        <div class="footer">
+                 <asp:Image ID="Image1" runat="server" ImageUrl="~/Imagens/logo.png"/> 
+            <div>
+            <asp:Menu ID="NavigationMenu" runat="server" EnableViewState="false" IncludeStyleBlock="true"
+                Orientation="Horizontal" >
+                <StaticMenuItemStyle ForeColor="White" HorizontalPadding="5px" Height="15px" BorderWidth="3px" BackColor="#DCDCDC" BorderColor="White" Font-Size="9pt" />
+                <Items>
+                    <asp:MenuItem NavigateUrl="~/frmRac.aspx" Text="&nbsp&nbsp&nbsp&nbsp&nbspAbrir Rac &nbsp&nbsp&nbsp"/>
+                    <asp:MenuItem NavigateUrl="~/frmGerRac.aspx" Text="Gerencia Rac" />
+                    <asp:MenuItem NavigateUrl="~/frmRap.aspx" Text="&nbsp&nbspAbrir Rap &nbsp&nbsp&nbsp" />
+                    <asp:MenuItem NavigateUrl="~/frmGerRap.aspx" Text="Gerencia Rap" />
+                </Items>
+            </asp:Menu>
+            <br>
+        </div>
+        </div>
+        <div class="main">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server"/>
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+    <div class="footer">
+        
+    </div>
+    </form>
+</body>
+</html>

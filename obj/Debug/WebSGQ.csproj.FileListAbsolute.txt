@@ -1,0 +1,21 @@
+d:\users\francisco.pegado\documents\visual studio 2010\Projects\WebSGQ\WebSGQ\bin\WebSGQ.dll
+d:\users\francisco.pegado\documents\visual studio 2010\Projects\WebSGQ\WebSGQ\bin\WebSGQ.pdb
+d:\users\francisco.pegado\documents\visual studio 2010\Projects\WebSGQ\WebSGQ\obj\Debug\ResolveAssemblyReference.cache
+d:\users\francisco.pegado\documents\visual studio 2010\Projects\WebSGQ\WebSGQ\obj\Debug\WebSGQ.dll
+d:\users\francisco.pegado\documents\visual studio 2010\Projects\WebSGQ\WebSGQ\obj\Debug\WebSGQ.pdb
+D:\projeto\websgq\bin\WebSGQ.dll.config
+D:\projeto\websgq\bin\WebSGQ.dll
+D:\projeto\websgq\bin\WebSGQ.pdb
+D:\projeto\websgq\obj\Debug\WebSGQ.csprojResolveAssemblyReference.cache
+D:\projeto\websgq\obj\Debug\WebSGQ.dll
+D:\projeto\websgq\obj\Debug\WebSGQ.pdb
+D:\Users\francisco.pegado\Documents\Projetos\websgq\bin\WebSGQ.dll
+D:\Users\francisco.pegado\Documents\Projetos\websgq\bin\WebSGQ.pdb
+D:\Users\francisco.pegado\Documents\Projetos\websgq\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\francisco.pegado\Documents\Projetos\websgq\obj\Debug\WebSGQ.dll
+D:\Users\francisco.pegado\Documents\Projetos\websgq\obj\Debug\WebSGQ.pdb
+C:\Users\francisco.pegado\Desktop\websgq\bin\WebSGQ.dll
+C:\Users\francisco.pegado\Desktop\websgq\bin\WebSGQ.pdb
+C:\Users\francisco.pegado\Desktop\websgq\obj\Debug\WebSGQ.csprojResolveAssemblyReference.cache
+C:\Users\francisco.pegado\Desktop\websgq\obj\Debug\WebSGQ.dll
+C:\Users\francisco.pegado\Desktop\websgq\obj\Debug\WebSGQ.pdb
